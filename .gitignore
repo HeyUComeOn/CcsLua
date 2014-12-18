@@ -1,0 +1,13 @@
+.metadata/.lock
+CocosLuaTestCpp/frameworks/
+CocosLuaJsonTest/frameworks/
+.metadata/
+HelloPhysicsWorld/runtime/
+MoonWarriors/runtime/
+Draw/runtime/
+CocosStudio/runtime/
+NoOneLeftBehind/runtime/
+CocosLuaTestCpp/runtime/
+shejigao3-2/runtime/
+CocosLuaJsonTest/runtime/
+CocosLuaGame/runtime/
